@@ -5,6 +5,6 @@ numpy
 matplotlib
 scikit-learn
 datetime
-sklearn
+scikit-learn
 plotly
 lgbm
