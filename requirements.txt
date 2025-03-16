@@ -1,0 +1,10 @@
+requests
+pandas
+seaborn 
+numpy
+matplotlib
+scikit-learn
+datetime
+sklearn
+plotly
+lgbm
