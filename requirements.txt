@@ -7,4 +7,4 @@ scikit-learn
 datetime
 scikit-learn
 plotly
-lgbm
+lightgbm
